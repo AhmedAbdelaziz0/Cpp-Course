@@ -1,13 +1,15 @@
 # Cpp-Course
 Course on Object Orianted C++
 
-Task 1:
-[  ] Install [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/)
+**Task 1:**
 
-[  ] Download the textbook [Object Orianted Programming in C++](https://github.com/AhmedAbdelaziz0/Data-Structure-BioMedical/blob/main/Textbooks/ObjectOrientedProgramminginC4thEdition.pdf)
+[ ] Install [CodeBlocks](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/)
 
-Week 1:
+[ ] Download the textbook [Object Orianted Programming in C++](https://github.com/AhmedAbdelaziz0/Data-Structure-BioMedical/blob/main/Textbooks/ObjectOrientedProgramminginC4thEdition.pdf)
 
-[  ] Introduction to programming.
 
-[  ] First Chapter in textbook.
+**Week 1:**
+
+[ ] Introduction to programming.
+
+[ ] First Chapter in textbook.
